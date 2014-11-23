@@ -2,10 +2,8 @@
 ### Purpose: A list of common (and sometimes viral) ESSIDs. For more information see 
 ###   the following link(s): 
 ###   http://www.airtightnetworks.com/home/resources/knowledge-center/viral-ssid.html
-### 
-### Contributors: jcran
 ###
+attwifi
+default
 Free Public WiFi
 hpsetup
-default
-attwifi
