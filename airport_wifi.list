@@ -5,7 +5,28 @@
 ###
 ### Contributors: jcran
 ###
-City, Airport Code, ESSID, Information Link, Additional Notes
-Boston, BOS, loganwifi, https://www.massport.com/logan-airport/inside-the-airport/free-wifi/, NA
-Los Angeles, LAX, LAX Wi-Fi, http://www.lawa.org/welcome_lax.aspx?id=46, NA
-San Francisco, SFO, #SFO FREE WIFI, http://www.flysfo.com/wi-fi, NA
+City, Airport Code, ESSID, Information Link, Free Access (minutes), Provider, Additional Info
+Atlanta, ATL, ATL Free Wi-Fi, http://www.atlanta-airport.com/passenger/wifi/, Unlimited, ??, NA
+Austin, AUS, ??, ??, 90, ??, NA
+Baltimore, BWI, ??, ??, 45, ??, NA
+Birmingham, BHM, ??, http://www.flybirmingham.com/passenger-terminal.html#wireless, Unlimited, ??, NA
+Boston, BOS, loganwifi, https://www.massport.com/logan-airport/inside-the-airport/free-wifi/, Unlimieted, ??, NA
+Charlotte, CLT, CLTNET, http://charmeck.org/city/charlotte/airport/pages/cltwifi.aspx, 30, ??, NA
+Cincinatti, CVG, ??, http://www.cvgairport.com/flight/tips.html, Unlimited, ??, NA
+Cleveland, CLE, ??, http://www.clevelandairport.com/Airport-Guide.aspx, Unlimited, ??, NA
+Colorado Springs, COS, flyCOS, https://www.springsgov.com/AirportPage.aspx?PageID=1780, Unlimited, ??, NA
+Dallas, DFW, ??, http://www.dfwairport.com/pressroom/DFWAnnouncesFreeWiFiWithATT.php, 40, ??, NA
+Denver, DEN, Boingo Hotspot, http://flydenver.com/ServicesDetail.aspx?URI=tcm:8-1250, Unlimited, Boingo, NA
+Detroit, DTW, AWG-WiFi, http://www.metroairport.com/TravelerInfo/GeneralInfo/WiFi.aspx, Unlimited, AWG, NA
+Fort Lauderdale, FLL, ??, http://www.broward.org/Airport/Services/Pages/Default.aspx#wireless, Unlimited, ??, 802.llb only
+Grand Rapids, GRR, flyGRR, http://www.grr.org/WIFI.php, Unlimited, ??, NA
+Hartford, BDL, ??, http://www.bradleyairport.com/Services/ServicesConcessions.aspx, Unlimited, ??, NA
+Houston, IAH, Boingo Hotspot, http://www.fly2houston.com/customers-wi-fi-internet, None, Boingo, NA
+Indianapolis, IND, ??, http://www.indianapolisairport.com/travel_preparation/faqs_general.aspx, Unlimited, ??, NA
+Kansas City, KCI, KCI, http://www.flykci.com/airportservice/wifi/index.htm, NA, ??, NA
+Little Rock, LIT, LRNAFreeWiFi, http://www.fly-lit.com/inside_lit/free_wifi_info.aspx, Unlimited, ??, NA
+Los Angeles, LAX, LAX Wi-Fi, http://www.lawa.org/welcome_lax.aspx?id=46, NA, ??, NA
+New Orleans, MSY, LANOIA_FREE_WIFI, http://www.flymsy.com/airport-facilities#FreeWiFi, NA, ??, NA
+New York, JFK, Boingo Hotspot, http://www.panynj.gov/airports/jfk-wifi-instructions.html, 30, Boingo, NA
+San Francisco, SFO, #SFO FREE WIFI, http://www.flysfo.com/wi-fi, NA, ??, NA
+Santa Ana, SNA, JWAFREEWIFI, http://www.ocair.com/other/FAQs.aspx#WiFi, Unlimited, ??, NA
